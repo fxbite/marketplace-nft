@@ -1,0 +1,9 @@
+{
+  "dev": {},
+  "main": {},
+  "sepolia": {
+    "MetalToken": "0xE303eBab4e060F6D94be45764fEE99Ac784aa0CB",
+    "WoTNFT": "0xB5Cd5De804A2835aAAf57243e196f3C7e9636C1B",
+    "Marketplace": "0xA0d4b146476D5a8bc52106c2a485D4c076597D8f"
+  }
+}
